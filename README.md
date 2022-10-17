@@ -10,7 +10,6 @@ Dartz
 <br>
 Equatable
 <br>
-<br>
 
 <b>METODOLOGIAS E DESIGNS</b>
 <br>

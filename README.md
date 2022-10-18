@@ -10,6 +10,8 @@ Dartz
 <br>
 Equatable
 <br>
+Internet Connection Checker
+<br>
 
 <b>METODOLOGIAS E DESIGNS</b>
 <br>

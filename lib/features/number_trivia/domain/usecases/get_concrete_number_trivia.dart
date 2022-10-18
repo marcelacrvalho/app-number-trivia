@@ -4,7 +4,7 @@ import 'package:equatable/equatable.dart';
 import '../../../../core/core.dart';
 import '../domain.dart';
 
-class GetConcreteNumberTrivia implements Usecase<NumberTrivia, Params>{
+class GetConcreteNumberTrivia implements UseCase<NumberTrivia, Params>{
   final NumberTriviaRepository repository;
 
   GetConcreteNumberTrivia(this.repository);

@@ -12,6 +12,8 @@ Equatable
 <br>
 Internet Connection Checker
 <br>
+Shared Preferences
+<br>
 
 <b>METODOLOGIAS E DESIGNS</b>
 <br>
